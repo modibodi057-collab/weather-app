@@ -101,17 +101,8 @@ This project was created to practice and improve:
 
 ## 👨‍💻 Author
 
-Created by [Your Name]
+Created by [Mohammad baydoun]
 
 ---
-
-## ⭐ Future Improvements
-
-- 5-day weather forecast
-- Dark mode
-- Search history
-- Weather icons
-- Auto-detect current location
-- Loading animation
 
 
