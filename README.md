@@ -4,7 +4,8 @@
 A modern and responsive weather application built using HTML, CSS, and JavaScript.
 
 This project allows users to search for any city and view real-time weather information using the OpenWeather API.
-
+ 
+ 👉 *[View Live Demo](https://modibodi057-collab.github.io/weather-app/)*
 ---
 
 ## ✨ Features
